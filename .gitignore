@@ -1,0 +1,9 @@
+# Compiled binaries
+bin/
+obj/
+*.exe
+*.o
+
+# Code::Blocks temporary files
+*.layout
+*.depend
